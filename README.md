@@ -1,6 +1,7 @@
 # Land-Use-Mapping-from-Historical-Maps
 The methods description is now in review. After publication a link to the reserch article will be published HERE: 
 
+![GraphicalAbstract](https://github.com/user-attachments/assets/a3b9da90-822d-41f4-85e3-6865aee5bb05)
 
 To predict land-use
 Download the maps from the Swedish Land Survey (https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/ekonomiska-kartan/). In all scripts, change the file paths to where you stored the data.
