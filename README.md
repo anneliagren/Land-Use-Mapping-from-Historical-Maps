@@ -1,5 +1,5 @@
 # Land-Use-Mapping-from-Historical-Maps
-The methods description is now in review. After publication a link to the articke will be published HERE: 
+The methods description is now in review. After publication a link to the reserch article will be published HERE: 
 
 
 To predict land-use
