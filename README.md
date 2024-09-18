@@ -1,5 +1,6 @@
 # Land-Use-Mapping-from-Historical-Maps
-The methods description is now in review. After publication a link to the reserch article will be published HERE: 
+The methods are described in this article: 
+Ågren, A. M. and Y. Lin. (2024) A fully automated model for land use classification from historical maps using machine learning. Remote Sensing Applications: Society and Environment, 36, 101349, https://doi.org/10.1016/j.rsase.2024.101349.
 
 ![GraphicalAbstract](https://github.com/user-attachments/assets/a3b9da90-822d-41f4-85e3-6865aee5bb05)
 
